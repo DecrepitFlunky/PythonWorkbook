@@ -1,3 +1,3 @@
-time = 12.3
-distance = 4
-print(time * distance)
+# This is my first Python program
+print("Sniff my biiiiig Butt!")
+print("It's really good!")
