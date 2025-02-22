@@ -1,3 +1,7 @@
 # This is my first Python program
-print("Sniff my biiiiig Butt!")
-print("It's really good!")
+first_name = "ada"
+last_name = "lovelace"
+full_name = f"{first_name} {last_name}"
+message = f"Hello, {full_name.title()}!"
+print(message)
+
